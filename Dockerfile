@@ -1,4 +1,4 @@
-# Étape 1 : Builder le projet Maven
+# Étape 1 : Builder le projet Maven bvbgh
 FROM maven:3.9.2 AS build
 
 # Définir le répertoire de travail
